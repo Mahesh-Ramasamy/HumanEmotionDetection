@@ -3,6 +3,12 @@ Posture and Emotion Recoginition
 ## Description
 This project is a Python-based library for Posture recognition and emotion detection using machine learning models. 
 The system uses SVM techniques to analyze facial expressions from images and predict emotions in real-time.
+# Objective
+Build a single, on-device Python pipeline that uses one camera feed (your laptop webcam) to classify:
+1. Posture:
+○ Binary: Upright vs. Hunched
+2. Emotion:
+○ Multi‐Class (3+ classes, e.g., relaxed, stressed, angry, etc.)
 #System Setup:
 
 	Package                 Version

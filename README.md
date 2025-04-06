@@ -22,6 +22,7 @@ The system uses SVM techniques to analyze facial expressions from images and pre
 
 	** Download all the python files and model files in same directory
 		emotion.py , posture.py , main_custom.py , Posture_model.pkl, Emotion_model.pkl
+  	https://github.com/Mahesh-Ramasamy/HumanEmotionDetection/
 	** To run:
 		python3 main_custom.py
 
